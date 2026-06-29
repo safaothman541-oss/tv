@@ -48,7 +48,7 @@
 <div class="wrap" id="list"><div class="msg">⏳ لیستی کەناڵەکان بار دەبێت...</div></div>
 <footer>Vertex 📺 · تەنها بەستەری فەرمی و بەخۆڕایی · لیستەکە خۆکارانە نوێ دەبێتەوە</footer>
 <script>
-const M3U="https://raw.githubusercontent.com/safaothman541-oss/tv/main/kurdistan.m3u";
+const M3U="kurdistan.m3u";  // same-origin (GitHub Pages) copy — avoids raw CDN 5-min cache
 const player=document.getElementById('player'),now=document.getElementById('now'),list=document.getElementById('list'),search=document.getElementById('search');
 let hls=null,activeEl=null,sections=[];
 function play(url,name,el){
@@ -99,7 +99,7 @@ search.oninput=()=>{
   const q=search.value.trim().toLowerCase();
   sections.forEach(s=>{let v=0;s.cards.forEach(c=>{const m=!q||c.n.includes(q);c.el.style.display=m?'':'none';if(m)v++;});s.h.style.display=v?'':'none';s.grid.style.display=v?'':'none';});
 };
-fetch(M3U).then(r=>r.text()).then(t=>render(parse(t)))
+fetch(M3U+"?_="+Date.now(),{cache:"no-store"}).then(r=>r.text()).then(t=>render(parse(t)))
   .catch(()=>{list.innerHTML='<div class="msg">⚠️ نەتوانرا لیستەکە باربکرێت — دواتر هەوڵبدەرەوە</div>';});
 </script>
 </body>
