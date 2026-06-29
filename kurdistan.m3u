@@ -1,37 +1,131 @@
 #EXTM3U
-# ════════════════════════════════════════════════════════════════
-#  کەناڵەکانی کوردستان و عێراق — لیستی فەرمی (free-to-air)
-#  دروستکراوە: 2026-06-29
-#  ─────────────────────────────────────────────────────────────
-#  ئەم فایلە لەسەر GitHub هۆست بکە. تەنها یەک بەستەری ئەمە بنێرە
-#  بۆ تیلیگرام. هەر کاتێ ئەم فایلە لە GitHub نوێ بکەیتەوە،
-#  خۆکارانە بۆ هەموو دواکەوتووانت نوێ دەبێتەوە.
-#
-#  ئەگەر بەستەرێک ڕۆژێک نەما (مرد)، بەستەرێکی نوێی هەمان کەناڵ
-#  لێرە ببینەوە و لێرە بیگۆڕە:
-#    https://iptv-org.github.io/iptv/languages/kur.m3u
-# ════════════════════════════════════════════════════════════════
+# کەناڵەکانی کوردستان و عێراق — لیستی فەرمی (free-to-air) | Vertex
 
-#EXTINF:-1 tvg-id="RudawTV.iq" group-title="کوردی — هەواڵ",Rudaw TV
+#EXTINF:-1 tvg-logo="" group-title="🟢 کوردی",Rudaw
 https://live.rudaw.net/hls/rudaw-tv/master.m3u8
-
-#EXTINF:-1 tvg-id="Kurdistan24.iq" group-title="کوردی — هەواڵ",Kurdistan 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9QWs2ms.png" group-title="🟢 کوردی",Kurdistan 24
 https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
-
-#EXTINF:-1 tvg-id="KurdsatNews.iq" group-title="کوردی — هەواڵ",Kurdsat News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F3XRwkt.png" group-title="🟢 کوردی",Kurdsat News
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
-
-#EXTINF:-1 tvg-id="PayamTV.iq" group-title="کوردی — هەواڵ",Payam TV
-https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8
-
-#EXTINF:-1 tvg-id="KurdsatHD.iq" group-title="کوردی — گشتی",Kurdsat
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UAbSwYA.png" group-title="🟢 کوردی",Kurdsat
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
-
-#EXTINF:-1 tvg-id="ZagrosTV.iq" group-title="کوردی — گشتی",Zagros TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Mspf32.png" group-title="🟢 کوردی",Zagros TV
 https://hlspackager.akamaized.net/live/DB/ZAGROS_TV/HLS/ZAGROS_TV.m3u8
-
-#EXTINF:-1 tvg-id="WaarTV.iq" group-title="کوردی — گشتی",Waar TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qySEibb.png" group-title="🟢 کوردی",Payam TV
+https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rK0y02d.png" group-title="🟢 کوردی",Waar TV
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
-
-#EXTINF:-1 tvg-id="AlIraqiaSports.iq" group-title="وەرزش",Al Iraqia Sport
+#EXTINF:-1 tvg-logo="https://www.aparatchi.com/images/chanells-logo/4kurd.svg" group-title="🟢 کوردی",4 Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xRkBDRx/Afarin-Baxcha-200.png" group-title="🟢 کوردی",Afarin Baxcha
+https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6MnXD7g.png" group-title="🟢 کوردی",Afarin TV
+https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gateway.esite-lab.com/file-storage/api/v1/public/uploads/2025/3/8/7a8a2548d8e5850e87066d2e573796189.png" group-title="🟢 کوردی",Al Iraqia Kurdish
+https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hIhzT7t.png" group-title="🟢 کوردی",Aryen TV
+https://aryen.tv/live/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/28/Bojnourd_ATRAK_TV.svg/960px-Bojnourd_ATRAK_TV.svg.png" group-title="🟢 کوردی",Atrak
+https://ncdn.telewebion.ir/atrak/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JazFBkW.jpeg" group-title="🟢 کوردی",Avar TV
+https://avr.host247.net/live/AvarTv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/21/Urmia_TV.svg/960px-Urmia_TV.svg.png" group-title="🟢 کوردی",Azerbaijan Gharbi
+https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/960px-Channel8corp.png" group-title="🟢 کوردی",Channel 8 Kurdish
+https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YFnmSLW.png" group-title="🟢 کوردی",Cira TV
+https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QmgaPSi.png" group-title="🟢 کوردی",EmanTv
+https://avr.host247.net/live/emantv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x4KCQlH.png" group-title="🟢 کوردی",FarmodaTV
+https://avr.host247.net/live/FarmodaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png" group-title="🟢 کوردی",Ilke TV
+https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/37ajg2j.png" group-title="🟢 کوردی",Jin TV
+https://live.jintv.org/medialive/jintv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6KBLB8.png" group-title="🟢 کوردی",Komala TV
+https://komhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xPwzad9.png" group-title="🟢 کوردی",Kurd Channel
+https://kurdchhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mjQptpc.png" group-title="🟢 کوردی",Kurdistan TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="🟢 کوردی",Med Muzik
+http://54.36.110.140/live3/live3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WHeH5i7.png" group-title="🟢 کوردی",Mixkurdy
+https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/42noysO.png" group-title="🟢 کوردی",Rojava TV
+https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JSvJpD8.png" group-title="🟢 کوردی",Ronahi TV
+https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zo3IWOn.png" group-title="🟢 کوردی",Rudaw TV
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://sercemtv.com.tr/sercemlogo.jpg" group-title="🟢 کوردی",Sercem TV
+https://canli.sercemtv.com.tr/hls/0/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bIheNAI.png" group-title="🟢 کوردی",Stêrk TV
+https://muzkurd.com/sterktv/sterk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/960px-TRT_Kurd%C3%AE_logo.svg.png" group-title="🟢 کوردی",TRT Kurdî
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="🟢 کوردی",Zarok TV
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://t4.ftcdn.net/jpg/03/88/22/21/360_F_388222175_D6PTsMoUyegpPJ63zvkecPsZAttc95mD.jpg" group-title="🟢 کوردی",Zoom TV Kurdish
+https://live.zoomnews.info/live/Zoom_playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DrrlxTO.png" group-title="🇮🇶 عێراق",Al Iraqia Sport
 https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WhPlJzh.jpeg" group-title="🇮🇶 عێراق",ABNsat
+https://mediaserver.abnvideos.com/streams/abnsat.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8qQouTW.jpg" group-title="🇮🇶 عێراق",Al Iraqia
+https://imn-live.esite-lab.com/hls/iraqia-general.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/feQTXeZ.jpg" group-title="🇮🇶 عێراق",Al Iraqia News
+https://imn-live.esite-lab.com/hls/iraqia-news.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ltyRjPK.png" group-title="🇮🇶 عێراق",Al Rasheed TV
+https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://alaimma.tv/alaimma-logo.png" group-title="🇮🇶 عێراق",Al-Aimma TV
+https://alaimma.tv/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eo3UYCK.png" group-title="🇮🇶 عێراق",Al-Jawadain TV
+https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mJIG5IV.png" group-title="🇮🇶 عێراق",Al-Sharqiya
+https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PeAcXB9.png" group-title="🇮🇶 عێراق",Al-Sharqiya News
+https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Alabbassia2026/Alabbassia-TV-Official/main/Logo%20PNG.png" group-title="🇮🇶 عێراق",Alabbassia TV
+https://stream.alabbassia.com/live/alabbassia/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tiQp2sR.png" group-title="🇮🇶 عێراق",Alhurra
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fsgQDcN.png" group-title="🇮🇶 عێراق",Alhurra Iraq
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lqVwrAF.png" group-title="🇮🇶 عێراق",Alquran
+https://ktvlive.online/stream/hls/ch1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yHZXPcn.png" group-title="🇮🇶 عێراق",Anwar TV2
+https://cloud.odysee.live/content/f92670235a1ce2bce4cf77671cc4dcc2188baa1d/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇮🇶 عێراق",AVA Family
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s8PfUQy.png" group-title="🇮🇶 عێراق",BeitolAbbas TV Channel
+https://live.beitolabbas.tv/live/beitolabbastv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kyzH3G5.png" group-title="🇮🇶 عێراق",Dijlah TV
+https://ghaasiflu.online/Dijlah/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pDdUvz7.png" group-title="🇮🇶 عێراق",Imam Hussein TV 1
+https://live.imamhossaintv.com/live/ih1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="🇮🇶 عێراق",Imam Hussein TV 2
+https://live.imamhossaintv.com/live/ih2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/emQRHQZ.png" group-title="🇮🇶 عێراق",Imam Hussein TV 3
+https://live.imamhossaintv.com/live/ih3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0UYcylY.png" group-title="🇮🇶 عێراق",Imam Hussein TV 4
+https://live.imamhossaintv.com/live/ih4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9lOuzHQ.png" group-title="🇮🇶 عێراق",iNEWS TV
+https://live.i-news.tv/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7woTe5.png" group-title="🇮🇶 عێراق",Iraq Future
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qzApokm.png" group-title="🇮🇶 عێراق",Ishtar TV
+https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LsYYkUI.png" group-title="🇮🇶 عێراق",Marjaeyat TV Arabic
+https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dvf61Jp.png" group-title="🇮🇶 عێراق",Marjaeyat TV English
+https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fCj05f0.png" group-title="🇮🇶 عێراق",Marjaeyat TV Persian
+https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D0LxiPE.png" group-title="🇮🇶 عێراق",MBC Iraq
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7uQoIXi.png" group-title="🇮🇶 عێراق",Samarra TV
+https://samarra.tv/proxy.php/hls/main3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.semakurd.net/sites/default/files/imagecache/400xY/shemis-tv.jpg" group-title="🇮🇶 عێراق",Shams TV
+https://stream.shams.tv/hls/stream.m3u8
