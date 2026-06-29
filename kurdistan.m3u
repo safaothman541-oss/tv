@@ -1,0 +1,37 @@
+#EXTM3U
+# ════════════════════════════════════════════════════════════════
+#  کەناڵەکانی کوردستان و عێراق — لیستی فەرمی (free-to-air)
+#  دروستکراوە: 2026-06-29
+#  ─────────────────────────────────────────────────────────────
+#  ئەم فایلە لەسەر GitHub هۆست بکە. تەنها یەک بەستەری ئەمە بنێرە
+#  بۆ تیلیگرام. هەر کاتێ ئەم فایلە لە GitHub نوێ بکەیتەوە،
+#  خۆکارانە بۆ هەموو دواکەوتووانت نوێ دەبێتەوە.
+#
+#  ئەگەر بەستەرێک ڕۆژێک نەما (مرد)، بەستەرێکی نوێی هەمان کەناڵ
+#  لێرە ببینەوە و لێرە بیگۆڕە:
+#    https://iptv-org.github.io/iptv/languages/kur.m3u
+# ════════════════════════════════════════════════════════════════
+
+#EXTINF:-1 tvg-id="RudawTV.iq" group-title="کوردی — هەواڵ",Rudaw TV
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="Kurdistan24.iq" group-title="کوردی — هەواڵ",Kurdistan 24
+https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
+
+#EXTINF:-1 tvg-id="KurdsatNews.iq" group-title="کوردی — هەواڵ",Kurdsat News
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
+
+#EXTINF:-1 tvg-id="PayamTV.iq" group-title="کوردی — هەواڵ",Payam TV
+https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8
+
+#EXTINF:-1 tvg-id="KurdsatHD.iq" group-title="کوردی — گشتی",Kurdsat
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
+
+#EXTINF:-1 tvg-id="ZagrosTV.iq" group-title="کوردی — گشتی",Zagros TV
+https://hlspackager.akamaized.net/live/DB/ZAGROS_TV/HLS/ZAGROS_TV.m3u8
+
+#EXTINF:-1 tvg-id="WaarTV.iq" group-title="کوردی — گشتی",Waar TV
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
+
+#EXTINF:-1 tvg-id="AlIraqiaSports.iq" group-title="وەرزش",Al Iraqia Sport
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
