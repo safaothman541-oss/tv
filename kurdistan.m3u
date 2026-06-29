@@ -129,8 +129,94 @@ https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
 http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🏀 باسکێتبۆڵ",NBA FAST Channel
 https://live-manifest.production-public.tubi.io/live/553b8d5e-fd2a-4a61-bdfa-73b34c299d75/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🏀 باسکێتبۆڵ",The NBA Channel
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6792c30abc03978b9b8bb832/colorLogoPNG_1747950897785.png" group-title="🏀 باسکێتبۆڵ",The NBA Channel
 https://jmp2.uk/plu-6792c30abc03978b9b8bb832.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--rgv465a.top/tvlogo/睛彩篮球.png" group-title="🏀 باسکێتبۆڵ",睛彩篮球 (Jingcai Basketball)
+https://iptv.catvod.com/live.php?id=%E7%9D%9B%E5%BD%A9%E7%AF%AE%E7%90%83
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3600003R7_20260421T143309SQUARE.png" group-title="🏀 باسکێتبۆڵ",The NBA Channel (Samsung TV Plus US)
+https://jmp2.uk/stvp-US3600003R7
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA36000019W_20260414T005106SQUARE.png" group-title="🏀 باسکێتبۆڵ",The NBA Channel (Samsung TV Plus Canada)
+https://jmp2.uk/stvp-CA36000019W
+#EXTINF:-1 tvg-logo="" group-title="🏀 باسکێتبۆڵ",Hoop TV
+https://streams2.sofast.tv/WiseM3U8_28/sofast/cleanhls/master.m3u8
+#EXTINF:-1 tvg-logo="https://image.roku.com/bh-uploads/production/infoHUDLogo/1730998042302_MSGSPORTZONE_Image_HUD.png" group-title="🏀 باسکێتبۆڵ",MSG SportsZone
+https://jmp2.uk/rok-8a55c26c63bdd14653c2b02230b4ac64.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzV6JQp.png" group-title="🌍 وەرزشی جیهانی",CCTV-16
+http://74.91.26.218:82/live/cctv16hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PGm944g.png" group-title="🌍 وەرزشی جیهانی",San Marino RTV Sport
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0CJGGgd.png" group-title="🌍 وەرزشی جیهانی",Sportitalia
+https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" group-title="🌍 وەرزشی جیهانی",CazeTV (1080i)
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="🌍 وەرزشی جیهانی",DeporTV
+https://edgectc.com/DEPORTES_CTC_PLUS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="🌍 وەرزشی جیهانی",Claro Sports
+https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="🌍 وەرزشی جیهانی",TyC Sports
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I6gsUqD.png" group-title="🌍 وەرزشی جیهانی",Meridiano TV
+http://181.78.8.199:8000/play/a0fr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="🌍 وەرزشی جیهانی",Win Sports
+http://138.121.15.230:9002/WIN-SPORT/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NJsRFud.png" group-title="🌍 وەرزشی جیهانی",Belarus-5 HD
+https://adpnetworkhd-cmd.github.io/iptv/Belarus5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NJsRFud.png" group-title="🌍 وەرزشی جیهانی",Беларусь 5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ujS6mMo.png" group-title="🌍 وەرزشی جیهانی",Sportivnyy
+https://live-3.otcnet.ru/sportivny/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X02s2UE.png" group-title="🌍 وەرزشی جیهانی",Match! Strana
+http://31.148.48.15/Match_Strana/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5XWpF19.png" group-title="🌍 وەرزشی جیهانی",МАТЧ! Игра
+http://31.148.48.15/Match_Igra_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aBY7QK4.png" group-title="🌍 وەرزشی جیهانی",Sport 1 Baltic
+http://ott.watch/XE5QWWBZ87/461/tracks-v2a1/mono.ts.m3u8?sid=c3f03b2b-bf32-49e2-8675-d1a321912ce8
+#EXTINF:-1 tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="🌍 وەرزشی جیهانی",CCTV-5 体育
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东体育.png" group-title="🌍 وەرزشی جیهانی",广东体育 (Guangdong Sports)
+https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--rgv465a.top/tvlogo/五星体育.png" group-title="🌍 وەرزشی جیهانی",五星体育 (Shanghai Five-Star Sports)
+https://stream1.freetv.fun/wu-xing-ti-yu-9.m3u8
+#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/安徽综艺体育.png" group-title="🌍 وەرزشی جیهانی",安徽综艺体育 (Anhui Variety-Sports)
+http://112.27.235.94:8000/hls/25/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东体育.png" group-title="🌍 وەرزشی جیهانی",山东体育 (Shandong Sports)
+https://stream1.freetv.fun/shan-dong-ti-yu-8.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--rgv465a.top/tvlogo/魅力足球.png" group-title="🌍 وەرزشی جیهانی",魅力足球 (Charm Football)
+https://stream1.freetv.fun/mei-li-zu-qiu-1.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" group-title="🌍 وەرزشی جیهانی",风云足球 (Fengyun Football)
+https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tNKPSkO.png" group-title="🌍 وەرزشی جیهانی",Đồng Nai 2
+http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3800003OS_20260428T031432SQUARE.png" group-title="🌍 وەرزشی جیهانی",Eurovision Sport
+https://jmp2.uk/stvp-GB3800003OS
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/686d8dd294a028da3ac59566/colorLogoPNG_1753992941899.png" group-title="🌍 وەرزشی جیهانی",Women's Sports Network (Pluto US)
+https://jmp2.uk/plu-686d8dd294a028da3ac59566.m3u8
+#EXTINF:-1 tvg-logo="https://image.roku.com/bh-uploads/production/infoHUDLogo/1705940612752_WSNLogo_HUDCenter.png" group-title="🌍 وەرزشی جیهانی",The Women's Sports Network (Roku)
+https://jmp2.uk/rok-11f70f2cc59750f4ad9a019d72ad17b1.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/683df56f5195c2a60a3f5559/colorLogoPNG_1775667541424.png" group-title="🌍 وەرزشی جیهانی",Swerve Women's Sports (Pluto US)
+https://jmp2.uk/plu-683df56f5195c2a60a3f5559.m3u8
+#EXTINF:-1 tvg-logo="https://image.roku.com/bh-uploads/production/infoHUDLogo/1764599519489_Swerve_Womens_Sports_260x147_Info_HUD_Channel_Identifier.png" group-title="🌍 وەرزشی جیهانی",Swerve Women's Sports (Roku)
+https://jmp2.uk/rok-51dea927355343df5a6f26545d07adc8.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300031OT_20250616T221644SQUARE.png" group-title="🌍 وەرزشی جیهانی",SportsGrid (Samsung TV Plus US)
+https://jmp2.uk/stvp-USBA300031OT
+#EXTINF:-1 tvg-logo="https://image.roku.com/bh-uploads/production/infoHUDLogo/1668537442136_ROKU-SPORTSGRID-LIVE-HUD-LOGO-EFEFEF.png" group-title="🌍 وەرزشی جیهانی",SportsGrid (Roku)
+https://jmp2.uk/rok-62f1cd0d4c395a2a8ab72cff688666a0.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/960px-Stadium_%28sports_network%29_logo.svg.png" group-title="🌍 وەرزشی جیهانی",Stadium
+https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="🌍 وەرزشی جیهانی",fubo Sports Network
+https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG_1731837352945.png" group-title="🌍 وەرزشی جیهانی",CBS Sports HQ (Pluto US)
+https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500005Z1_20260421T143043SQUARE.png" group-title="🌍 وەرزشی جیهانی",Roku Sports Channel
+https://jmp2.uk/stvp-US4500005Z1
+#EXTINF:-1 tvg-logo="https://image.roku.com/bh-uploads/production/infoHUDLogo/1755563347829_YahooSportsNetwork_HUD_logo_260x147_centre_aligned.png" group-title="🌍 وەرزشی جیهانی",Yahoo! Sports Network (Roku)
+https://jmp2.uk/rok-0a1fae7f18a56923219beb5b34b098f3.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoSVG_1780355759776.svg" group-title="🌍 وەرزشی جیهانی",Pluto TV Esportes
+https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png" group-title="🌍 وەرزشی جیهانی",Esport3
+https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jxLdjnY/TDP.png" group-title="🌍 وەرزشی جیهانی",Teledeporte
+https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WhPlJzh.jpeg" group-title="🇮🇶 عێراق",ABNsat
 https://mediaserver.abnvideos.com/streams/abnsat.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8qQouTW.jpg" group-title="🇮🇶 عێراق",Al Iraqia
