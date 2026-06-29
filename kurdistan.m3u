@@ -1,5 +1,5 @@
 #EXTM3U
-# کەناڵەکانی کوردستان و عێراق — لیستی فەرمی (free-to-air) | Vertex
+# کەناڵەکانی کوردستان و عێراق و وەرزش — free-to-air | Vertex
 
 #EXTINF:-1 tvg-logo="" group-title="🟢 کوردی",Rudaw
 https://live.rudaw.net/hls/rudaw-tv/master.m3u8
@@ -69,8 +69,60 @@ https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://t4.ftcdn.net/jpg/03/88/22/21/360_F_388222175_D6PTsMoUyegpPJ63zvkecPsZAttc95mD.jpg" group-title="🟢 کوردی",Zoom TV Kurdish
 https://live.zoomnews.info/live/Zoom_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DrrlxTO.png" group-title="🇮🇶 عێراق",Al Iraqia Sport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DrrlxTO.png" group-title="⚽ وەرزش",Al Iraqia Sport
 https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CsEElsJ.png" group-title="⚽ وەرزش",Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ONKNOAp.png" group-title="⚽ وەرزش",KSA Sports 1
+https://aloula-redirect.vercel.app/9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v8ULLqg.png" group-title="⚽ وەرزش",KSA Sports 2
+https://aloula-redirect.vercel.app/10/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BXfCvez.png" group-title="⚽ وەرزش",KSA Sports 3
+https://aloula-redirect.vercel.app/16/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="⚽ وەرزش",Alkass Four
+https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/10mmlha.png" group-title="⚽ وەرزش",Alkass One
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+#EXTINF:-1 tvg-logo="https://shoof.alkass.net/assets/images/shoof.png" group-title="⚽ وەرزش",Alkass SHOOF
+https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
+#EXTINF:-1 tvg-logo="https://shoof.alkass.net/assets/images/shoof2.png" group-title="⚽ وەرزش",Alkass SHOOF 2
+https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CrPSPSC.png" group-title="⚽ وەرزش",Alkass Six
+https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d57BdFh.png" group-title="⚽ وەرزش",Alkass Three
+https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="⚽ وەرزش",Alkass Two
+https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R1hGX1d.png" group-title="⚽ وەرزش",KTV Sport
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l4oX0gf.png" group-title="⚽ وەرزش",KTV Sport Plus
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="⚽ وەرزش",A Spor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qBVqtYd.png" group-title="⚽ وەرزش",FB TV
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" group-title="⚽ وەرزش",HTSpor TV
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" group-title="⚽ وەرزش",S Sport
+https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2jIItAy.png" group-title="⚽ وەرزش",S Sport 2
+https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3zHdkYG.png" group-title="⚽ وەرزش",TJK TV
+https://tjktv-live.tjk.org/tjktv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3zHdkYG.png" group-title="⚽ وەرزش",TJK TV 2
+https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6tv0zxh.png" group-title="⚽ وەرزش",TRT Spor
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/960px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png" group-title="⚽ وەرزش",TRT Spor Yildiz
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2EmrZPQ.png" group-title="⚽ وەرزش",Jordan Sport
+http://93.184.10.248/JordanSport/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="⚽ وەرزش",Oman Sports TV
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="⚽ وەرزش",Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZkuZmIo.png" group-title="⚽ وەرزش",Bahrain Sports 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WhPlJzh.jpeg" group-title="🇮🇶 عێراق",ABNsat
 https://mediaserver.abnvideos.com/streams/abnsat.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8qQouTW.jpg" group-title="🇮🇶 عێراق",Al Iraqia
